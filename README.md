@@ -149,14 +149,14 @@ lib/
 
 ## Extra Credit
 
-Plateful includes several features beyond the basic list-and-details requirements✨:
+Plateful includes several features beyond the basic list and details requirements✨:
 
-- **Favorites** — save meals for quick access later.
-- **Weekly Meal Planner** — organize meals across different days and meal types.
-- **Category Filtering** — narrow down meal choices by category.
-- **Area Filtering** — explore meals based on their associated area.
-- **Customization Screen** — select categories and areas based on what you're craving before browsing meals.
-- **Profile Screen** — an additional screen created beyond the required screens.
-- **Custom UI/UX** — a custom color palette, typography, layouts, and visual identity designed for Plateful.
-- **Custom Loading Animation** — I looked through LottieFiles for a food-themed animation that would fit Plateful's loading screen and found a suitable spoon and fork animation, which I integrated into the app.
+- **Favorites** : save meals for quick access later.
+- **Weekly Meal Planner** : organize meals across different days and meal types.
+- **Category Filtering** : narrow down meal choices by category.
+- **Area Filtering** : explore meals based on their associated area.
+- **Customization Screen** : select categories and areas based on what you're craving before browsing meals.
+- **Profile Screen** : an additional screen created beyond the required screens.
+- **Custom UI/UX** : a custom color palette, typography, layouts, and visual identity designed for Plateful.
+- **Custom Loading Animation** : I looked through LottieFiles for a food-themed animation that would fit Plateful's loading screen and found a suitable spoon and fork animation, which I integrated into the app.
 The animation was found on [LottieFiles](https://lottiefiles.com/free-animation/spoon-and-fork-icon-animation-CK4p1QsaN5).
