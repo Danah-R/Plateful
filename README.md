@@ -99,13 +99,53 @@ When a user selects a meal, its ID is passed to the details screen and used to r
 ```text
 lib/
 ├── assets/
+│   ├── animations/
+│   │   └── spoon and fork icon animation.json
+│   └── images/
+│       ├── 1E9AD208-0CF8-437E-BA59-CEB53ED71026.PNG
+│       ├── 8221130F-B391-4E86-B1EF-FD8821E8CE65.png
+│       └── plateful_logo_transparent.png
+│
 ├── constants/
+│   └── app_colors.dart
+│
 ├── model/
+│   ├── area_model.dart
+│   ├── category_model.dart
+│   ├── meal_detail_model.dart
+│   ├── meal_model.dart
+│   └── planned_meal.dart
+│
 ├── screens/
+│   ├── customization_screen.dart
+│   ├── details_screen.dart
+│   ├── home_screen.dart
+│   ├── list_screen.dart
+│   ├── main_nav_screen.dart
+│   ├── profile_screen.dart
+│   └── splash_screen.dart
+│
 ├── service/
-└── widgets/
+│   ├── api.dart
+│   ├── favorites_store.dart
+│   └── weekly_plan_store.dart
+│
+├── widgets/
+│   ├── loading_indicator.dart
+│   └── meal_slot_widgets.dart
+│
+└── main.dart
 ```
 
+### Folder Overview
+
+- **assets/** — images and the Lottie loading animation used throughout the app.
+- **constants/** — application colors and shared design constants.
+- **model/** — data models used to represent API responses and planned meals.
+- **screens/** — the different screens and main navigation of the application.
+- **service/** — API requests and local stores for favorites and the weekly meal plan.
+- **widgets/** — reusable widgets used across the application.
+- **main.dart** — entry point of the Flutter application.
 ## Extra Credit
 
 Plateful includes several features beyond the basic list-and-details requirements:
