@@ -1,6 +1,6 @@
 # Plateful 🍽️
 
-### Plateful, ### plan it. plate it. enjoy it.
+### Plateful, plan it. plate it. enjoy it.🧡
 
 ## Overview
 
