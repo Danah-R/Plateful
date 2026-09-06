@@ -4,7 +4,7 @@
 
 ## Overview
 
-### Why Plateful?
+### Why Plateful?🤔
 
 Deciding what to eat every day can take more time than it should. Between searching for recipes, finding new meal ideas, deciding what to make, and trying to organize meals throughout the week, meal planning can easily become repetitive and overwhelming.
 
@@ -12,25 +12,25 @@ Plateful was created to make that process easier. It brings meal discovery, reci
 
 ## Features
 
-### Discover & Explore
+### Discover & Explore🧭
 - Browse meals using data from TheMealDB
 - Filter meals by category
 - Filter meals by area/country
 - Explore detailed information for each meal
 
-### Meal Details
+### Meal Details✨
 - View meal images, category, and area
 - View ingredients and measurements
 - Read cooking instructions
 - View available tags and additional meal information
 
-### Weekly Planner
+### Weekly Planner🗓️
 - Plan meals for different days of the week
 - Organize meals by meal type
 - Add meals directly to a selected day and meal slot
 - Keep track of planned meals throughout the week
 
-### Personalization
+### Personalization⭐️
 - Save meals to Favorites
 - Choose categories and areas based on what you're craving
 - Access a dedicated Profile section
@@ -59,7 +59,7 @@ The main color palette includes:
 
 The app uses **Nunito** for its typography.
 
-## Screenshots
+## Screenshots📸
 
 | Splash Screen | Home Screen | Home Screen |
 |:---:|:---:|:---:|
@@ -77,7 +77,7 @@ The app uses **Nunito** for its typography.
 |:---:|:---:|:---:|
 |<img width="1080" height="2400" alt="Screenshot_1788689581" src="https://github.com/user-attachments/assets/5ab0ef65-efb9-4a73-b855-0eb9243ad23c" />|<img width="1080" height="2400" alt="Screenshot_1788689586" src="https://github.com/user-attachments/assets/6e26d409-0f66-4eec-9960-5c0de83e543c" />|<img width="1080" height="2400" alt="Screenshot_1788689531" src="https://github.com/user-attachments/assets/396337b6-aa6d-4895-b908-570191f362f5" />|
 
-## Demo Video
+## Demo Video🎥
 
 The demo shows the main user flow through Plateful, including discovering meals, filtering results, viewing recipes, saving favorites, and planning meals throughout the week.
 
@@ -146,9 +146,10 @@ lib/
 - **service/** — API requests and local stores for favorites and the weekly meal plan.
 - **widgets/** — reusable widgets used across the application.
 - **main.dart** — entry point of the Flutter application.
+
 ## Extra Credit
 
-Plateful includes several features beyond the basic list-and-details requirements:
+Plateful includes several features beyond the basic list-and-details requirements✨:
 
 - **Favorites** — save meals for quick access later.
 - **Weekly Meal Planner** — organize meals across different days and meal types.
@@ -158,6 +159,5 @@ Plateful includes several features beyond the basic list-and-details requirement
 - **Profile Screen** — an additional screen created beyond the required screens.
 - **Custom UI/UX** — a custom color palette, typography, layouts, and visual identity designed for Plateful.
 - **Custom Loading Animation** — a food-themed spoon and fork animation integrated into the app as the loading indicator.
-
-- ✨ **Custom Loading Animation** — I looked through LottieFiles for a food-themed animation that would fit Plateful's loading screen and found a suitable spoon and fork animation, which I integrated into the app.
+- **Custom Loading Animation** — I looked through LottieFiles for a food-themed animation that would fit Plateful's loading screen and found a suitable spoon and fork animation, which I integrated into the app.
 The animation was found on [LottieFiles](https://lottiefiles.com/free-animation/spoon-and-fork-icon-animation-CK4p1QsaN5).
