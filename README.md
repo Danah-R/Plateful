@@ -158,6 +158,5 @@ Plateful includes several features beyond the basic list-and-details requirement
 - **Customization Screen** — select categories and areas based on what you're craving before browsing meals.
 - **Profile Screen** — an additional screen created beyond the required screens.
 - **Custom UI/UX** — a custom color palette, typography, layouts, and visual identity designed for Plateful.
-- **Custom Loading Animation** — a food-themed spoon and fork animation integrated into the app as the loading indicator.
 - **Custom Loading Animation** — I looked through LottieFiles for a food-themed animation that would fit Plateful's loading screen and found a suitable spoon and fork animation, which I integrated into the app.
 The animation was found on [LottieFiles](https://lottiefiles.com/free-animation/spoon-and-fork-icon-animation-CK4p1QsaN5).
