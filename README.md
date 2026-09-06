@@ -59,8 +59,6 @@ The main color palette includes:
 
 The app uses **Nunito** for its typography.
 
-The interface combines warm cream and peach tones with subtle botanical elements and coral accents to keep the design friendly without making it feel too busy.
-
 ## Screenshots
 
 ## Screenshots
