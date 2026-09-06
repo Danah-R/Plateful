@@ -61,8 +61,6 @@ The app uses **Nunito** for its typography.
 
 ## Screenshots
 
-## Screenshots
-
 | Splash Screen | Home Screen | Home Screen |
 |:---:|:---:|:---:|
 |<img width="1080" height="2400" alt="Screenshot_1788688984" src="https://github.com/user-attachments/assets/5ac68479-fc90-4be0-b83d-4a29d0db8bf1" />|<img width="1080" height="2400" alt="Screenshot_1788689286" src="https://github.com/user-attachments/assets/76e2b467-ee90-481d-b17b-2492d296cccf" />|<img width="1080" height="2400" alt="Screenshot_1788689289" src="https://github.com/user-attachments/assets/087b7506-433f-4e08-8bd5-04598cfee3bc" />|
